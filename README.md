@@ -1,3 +1,8 @@
 # AulaGitHub-PI
+
 Primeira aula de GITHUB em PI
-## INICIANDO
+# INICIANDO #
+
+:zap:
+
+✨🐱‍🏍✨ Alterando README localmente. ✨🐱‍🏍✨
